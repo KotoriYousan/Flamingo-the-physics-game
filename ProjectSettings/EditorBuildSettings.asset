@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 71898f96a36cc08459443924eeccad3b
+  - enabled: 1
+    path: Assets/Scenes/LevelsChoices.unity
+    guid: 0919dcfd0da346c4a82ca03def74d1ad
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: d30ea14f40d626243b970977a226da3b
+  - enabled: 0
+    path: Assets/Scenes/Controls.unity
+    guid: 3acb457bd1140c54aa57ae52ae302437
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/9f24fc5ecabe0ba45b1b1a4df258a128
+    guid: 9f24fc5ecabe0ba45b1b1a4df258a128
+  - enabled: 0
+    path: Assets/Scenes/Credits.unity
+    guid: 448eed29c9e550748a94388ccdb52b9a
+  - enabled: 1
+    path: Assets/Scenes/Control_Works.unity
+    guid: 36054adb1d12928408beafa09d3c8be6
+  - enabled: 1
+    path: Assets/Scenes/Credits_Works.unity
+    guid: 821051102fc36184893f19e1b70eaa8a
+  - enabled: 1
+    path: Assets/Scenes/FailEnd.unity
+    guid: 0b5df64ecb5be7644a2704578441f72a
+  - enabled: 1
+    path: Assets/Scenes/WinScene.unity
+    guid: c05f37667f127174d85d536bebc8b3ed
+  m_configObjects: {}
